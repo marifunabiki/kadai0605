@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+.myMap {
+    background-color: rgb(236, 218, 117);
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+    color: rgb(32, 8, 117);
+  }
